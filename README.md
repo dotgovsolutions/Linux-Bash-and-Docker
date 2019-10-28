@@ -2,10 +2,10 @@
 
 ## Watch
 * [Watch: What is Ubuntu Linux](https://www.youtube.com/watch?v=SDMQxLblarE)
-* [Watch: What is Ubuntu Linux](https://www.youtube.com/watch?v=CM7UP-un1vc)
 * [Watch: Basic Command Line Linux Video: Part 4](https://www.youtube.com/watch?v=xaqPdtLgmhw)
 * [Watch: Basic Command Line Linux Video: Part 5](https://www.youtube.com/watch?v=ih6bbwyfco0)
 * [Watch: Basic Command Line Linux Video: Part 6](https://www.youtube.com/watch?v=EtTZwdBHpYs)
+* [Watch: Introduction to Vi](https://www.youtube.com/watch?v=CM7UP-un1vc)
 
 ## Try
 * [Try: Interactive Vim Text Editor](https://www.openvim.com/)
