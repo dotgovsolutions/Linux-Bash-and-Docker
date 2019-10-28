@@ -1,6 +1,7 @@
 # Ubuntu Linux-Bash-and-Docker
 
 ## Watch
+* [Watch: Unit Video Introduction: Docker, Ubuntu, and Bash](https://youtu.be/AM9h2MTlqUE)
 * [Watch: What is Ubuntu Linux](https://www.youtube.com/watch?v=SDMQxLblarE)
 * [Watch: Basic Command Line Linux Video: Part 4](https://www.youtube.com/watch?v=xaqPdtLgmhw)
 * [Watch: Basic Command Line Linux Video: Part 5](https://www.youtube.com/watch?v=ih6bbwyfco0)
