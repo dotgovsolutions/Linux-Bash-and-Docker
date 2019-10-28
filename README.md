@@ -13,3 +13,4 @@
 * [Read: Ubuntu Linux File Permissions](https://help.ubuntu.com/community/FilePermissions)
 * [Read: Ubuntu Linux Managing Users](https://help.ubuntu.com/lts/serverguide/user-management.html)
 * [Read: Ubuntu Linux Managing User Groups](https://www.makeuseof.com/tag/ubuntu-linux-add-user-to-group/)
+* [Reference: Vim Commands](https://vim.rtorr.com/)
