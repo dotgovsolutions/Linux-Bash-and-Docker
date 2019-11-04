@@ -22,8 +22,12 @@ In this module, you will learn to operate a Linux server(Ubuntu Server) within a
 * Docker Desktop Installed
 * If you are using a Mac, you need to dual boot your machine to Windows 10 Pro, Education, or Enterprise
 
+## Introduction Video
+[Watch: Unit Video Introduction: Docker, Ubuntu, and Bash](https://youtu.be/AM9h2MTlqUE)
+
+
+
 ## Watch
-* [Watch: Unit Video Introduction: Docker, Ubuntu, and Bash](https://youtu.be/AM9h2MTlqUE)
 * [Watch: What is Ubuntu Linux](https://www.youtube.com/watch?v=SDMQxLblarE)
 * [Watch: Basic Command Line Linux Video: Part 4](https://www.youtube.com/watch?v=xaqPdtLgmhw)
 * [Watch: Basic Command Line Linux Video: Part 5](https://www.youtube.com/watch?v=ih6bbwyfco0)
